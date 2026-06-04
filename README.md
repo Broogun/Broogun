@@ -1,0 +1,84 @@
+<h1 align="center">안녕하세요, 박형건입니다 👋</h1>
+
+<p align="center">
+  <b>데이터로 문제를 재정의하고, 모델로 검증하는 AI 개발자 지망생</b><br/>
+  가천대학교 응용통계학과 · 컴퓨터공학 복수전공
+</p>
+
+<p align="center">
+  <a href="mailto:afs35331@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-afs35331-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+  <img src="https://img.shields.io/badge/Gachon_Univ.-Applied_Statistics_%2B_CS-005BAC?style=flat&logo=graduation-cap&logoColor=white"/>
+</p>
+
+---
+
+## 🛠 Tech Stack
+
+**Data & ML**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-00B050?style=flat&logo=leaflet&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat&logo=xgboost&logoColor=white)
+![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=flat&logo=yandex&logoColor=black)
+
+**Deep Learning**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+
+**Viz & Deploy**
+
+![SHAP](https://img.shields.io/badge/SHAP-4B8BBE?style=flat&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+## 📂 Projects
+
+### 🔔 성동구 소상공인 경영위기 조기경보 시스템
+> **2025 빅콘테스트 AI데이터 분석분야** · 학과 학술제 최우수상 · P-실무 프로젝트 A+
+
+폐업률 0.72%의 극단적 불균형 환경에서 **LightGBM 위험 등급 탐지**와 **EWS 동종 업종 비교**를 병렬 구조로 결합한 조기경보 시스템 개발.  
+Temporal Decay 피처 엔지니어링 · SHAP 예측 근거 분해 · 3단계 검증 파이프라인 · Streamlit 실시간 대시보드 배포.
+
+| 지표 | 값 |
+|------|-----|
+| LightGBM CV AUC | **0.798** |
+| Lift@5% | **7.3x** |
+| Temporal Holdout (2023→2024) | AUC 0.611, Z = 4.55σ (p < 0.001) |
+
+[![GitHub](https://img.shields.io/badge/GitHub-bigcontest--2025--ews-181717?style=flat&logo=github)](https://github.com/Broogun/bigcontest-2025-ews)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Streamlit-FF4B4B?style=flat&logo=streamlit)](https://bigcontest-2025-ews-5yrcwa6beml2fdp7czwez9.streamlit.app)
+[![Report](https://img.shields.io/badge/최종_보고서-PDF-blue?style=flat&logo=adobeacrobatreader)](https://github.com/Broogun/bigcontest-2025-ews/raw/main/docs/보고서_성동구_소상공인_경영위기_조기경보_시스템.pdf)
+
+---
+
+### 📈 BDA 학습자 수료 예측 AI 경진대회
+> **데이콘** · 733팀 중 **26위 (상위 3.5%)**
+
+Train/Test 기수 간 분포 불일치 환경에서 L1 Distance 기반 변수 안정성 분석으로 일반화 가능한 신호만 선별.  
+확률 임계값 대신 **순위 기반 선발(Top-k)**으로 Public 43위 → Private 26위 (+17등) 달성.
+
+| 지표 | 값 |
+|------|-----|
+| Public F1 | 0.44897 (43위) |
+| Private F1 | 0.41071 (26위) |
+| Rule 기여 | +0.065 (ML 0.384 → 0.449) |
+
+[![GitHub](https://img.shields.io/badge/GitHub-dacon--bda2--completion--prediction-181717?style=flat&logo=github)](https://github.com/Broogun/dacon-bda2-completion-prediction)
+[![Portfolio](https://img.shields.io/badge/포트폴리오-PDF-blue?style=flat&logo=adobeacrobatreader)](https://github.com/Broogun/dacon-bda2-completion-prediction/raw/main/docs/포트폴리오_BDA_학습자_수료_예측.pdf)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Broogun&show_icons=true&theme=default&hide_border=true&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Broogun&layout=compact&theme=default&hide_border=true" height="160"/>
+</p>
