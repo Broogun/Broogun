@@ -92,10 +92,3 @@ Train/Test 기수 간 분포 불일치 환경에서 L1 Distance 기반 변수 �
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Broogun&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Broogun&layout=compact&theme=default&hide_border=true&langs_count=6" height="165"/>
-</p>
