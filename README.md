@@ -94,7 +94,7 @@ Train/Test 기수 간 분포 불일치 환경에서 L1 Distance 기반 변수 �
 | Rule 기여 | +0.065 (ML 0.384 → 0.449) |
 
 [![GitHub](https://img.shields.io/badge/GitHub-dacon--bda2--completion--prediction-181717?style=flat&logo=github)](https://github.com/Broogun/dacon-bda2-completion-prediction)
-[![Portfolio](https://img.shields.io/badge/포트폴리오-PDF-blue?style=flat&logo=adobeacrobatreader)](https://github.com/Broogun/dacon-bda2-completion-prediction/raw/main/docs/포트폴리오_BDA_학습자_수료_예측.pdf)
+[![Portfolio](https://img.shields.io/badge/포트폴리오-PDF-blue?style=flat&logo=adobeacrobatreader)](https://github.com/Broogun/dacon-bda2-completion-prediction/raw/main/docs/BDA_학습자_수료_예측_AI_경진대회_포트폴리오.pdf)
 
 ---
 
