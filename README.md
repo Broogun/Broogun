@@ -15,7 +15,7 @@
   <a href="mailto:afs35331@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-afs35331-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
-  <img src="https://img.shields.io/badge/전공-응용통계학_%2B_컴퓨터공학_복수전공-005BAC?style=flat&logo=graduation-cap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Major-Statistics_%26_Computer_Science-005BAC?style=flat&logo=graduation-cap&logoColor=white"/>
 </p>
 
 ---
